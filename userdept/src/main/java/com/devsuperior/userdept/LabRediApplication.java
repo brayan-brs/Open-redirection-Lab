@@ -1,12 +1,13 @@
-package com.devsuperior.userdept;
+package com.LabRedi.LabRedi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserdeptApplication {
+public class LabRediApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserdeptApplication.class, args);
+		SpringApplication.run(LabRediApplication.class, args);
 	}
+
 }
