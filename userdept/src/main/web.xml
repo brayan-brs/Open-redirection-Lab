@@ -1,0 +1,6 @@
+# Define o prefixo e o sufixo dos arquivos de template Thymeleaf
+spring.thymeleaf.prefix=classpath:/templates/
+spring.thymeleaf.suffix=.html
+
+# Desativa o cache do template para facilitar o desenvolvimento
+spring.thymeleaf.cache=false
